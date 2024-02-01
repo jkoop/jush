@@ -1,6 +1,6 @@
 {
     "name": "jush",
-    "version": "1.11.0-1",
+    "version": "1.11.0-2",
     "author": "Jakub Vrana <vrana.cz>",
     "homepage": "https://jush.sourceforge.io",
     "description": "JavaScript Syntax Highlighter can be used for client-side syntax highlighting of HTML, CSS, JavaScript, PHP, SQL, HTTP and SMTP protocol, php.ini and Apache config",

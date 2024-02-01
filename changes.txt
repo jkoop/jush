@@ -1,3 +1,6 @@
+JUSH 1.11.0-2:
+`export default jush` to be used in a "module"ure environment
+
 JUSH 1.11.0:
 Fix jQuery plugin (thanks to Daniel Kouba)
 
